@@ -1,0 +1,19 @@
+body{
+    background-color: #b7defd;
+}
+
+.app-container{
+    margin: 100px;
+    padding: 50px;
+}
+
+.weather-data{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+}
+
+.data-container{
+    display: flex;
+}
